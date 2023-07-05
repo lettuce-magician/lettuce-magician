@@ -1,20 +1,13 @@
 📖 Welcome to my page, where i show a bit of myself
 
+I started programming around 7 years ago, starting with Lua. I'm currently trying to expand my porifolio.
 
-📔 Nickname: letiul
+Languages that I program:
+- Lua
+- C/C++
+- (A little of) HTML/CSS/JS
 
-🌐 Age: 15
+Normally does Roblox libraries and such, sometimes some unique things.
 
-♊ Sign: Gemini
-
-🕒 Bored and Sleepy 24/7
-
-⭐ Loves Stars & Universe
-
-🌕 Lua Coder/Roblox Dev
-
-🙄 Some other unnecessary info
-
-💬 If you wanna talk with me add me on discord: let#6464
-
-👿 If your a azazel main on The Binding of Isaac get away from me
+Want to chat with me? Add me on Discord!
+Discord username: letiul
