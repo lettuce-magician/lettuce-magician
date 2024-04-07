@@ -1,13 +1,10 @@
-📖 Welcome to my page, where i show a bit of myself
+What'cha doing lurking around here?
 
-I started programming around 7 years ago, starting with Lua. I'm currently trying to expand my porifolio.
-
-Languages that I program:
+Languages:
 - Lua
 - C/C++
-- (A little of) HTML/CSS/JS
+- (A little of) HTML/CSS/JS/TS
+- (And another little of) Svelte, TailwindCSS
 
 Normally does Roblox libraries and such, sometimes some unique things.
-
-Want to chat with me? Add me on Discord!
-Discord username: letiul
+https://lettuce-magician.github.io
